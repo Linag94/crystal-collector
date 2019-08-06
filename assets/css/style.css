@@ -1,0 +1,19 @@
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+#crystal-main {
+    width: 650px;
+    border: 15px solid rgb(177, 24, 139);
+    padding: 25px;
+    background: white;
+    color: hotpink;
+}
+
+.title {
+   color: hotpink;
+   border: 5px solid rgb(177, 24, 139);
+   text-align: center;
+   padding: 10px;
+}
