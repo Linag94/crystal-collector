@@ -10,3 +10,6 @@ In this assignment, you'll create another fun and interactive game for web brows
 
  [Link To Game](https://linag94.github.io/unit-4-game/).
 
+## Screenshot
+
+![](https://i.ibb.co/XWq9m2f/Screenshot-7.png)
